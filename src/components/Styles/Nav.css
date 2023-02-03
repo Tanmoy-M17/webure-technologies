@@ -1,0 +1,36 @@
+
+.mcontent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  color: #868181;
+}
+.content1{
+    height: 665px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid green;
+}
+
+
+.left1{
+width: 646px;
+height: 481px;
+text-align: left;
+}
+
+.right1{
+    width: 416.31px;
+    height: 576px;
+    /* position: relative; */
+}
+.vp4{
+ 
+  background: linear-gradient(97.32deg, #FF698D -3.47%, #FB3F6C 108.43%);
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
+  border-radius: 192px;
+}
+

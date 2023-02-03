@@ -1,0 +1,28 @@
+
+.content {
+  text-align: left;
+  width: 636px;
+  height: 507.62px;
+  margin-top: 50px;
+  background: rgba(255, 255, 255, 0.02);
+  
+padding: 10px;
+}
+.font_family{
+  font-family: "Ubuntu";
+}
+.vp4{
+ 
+  background: linear-gradient(97.32deg, #FF698D -3.47%, #FB3F6C 108.43%);
+  border: 2px solid rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 30px 50px rgba(168, 22, 75, 0.15);
+  border-radius: 192px;
+}
+
+.input {
+  width: 321px;
+  height: 44px;
+  border-bottom: 2px solid white;
+  font-family: "Ubuntu";
+}
+

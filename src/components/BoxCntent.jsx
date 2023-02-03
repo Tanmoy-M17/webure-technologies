@@ -55,8 +55,8 @@ export const BoxCntent = () => {
   return (
 <div >
 <div className="">
-<img className="w-fit ml-px mt-16" src="XMLID_15_.svg" alt="" />
-<h1 className="font-bold text-5xl">What De do</h1>
+<img className="w-fit ml-96 mt-16" src="XMLID_15_.svg" alt="" />
+<h1 className="font-bold text-5xl -mt-20 mr-96">What De do</h1>
 </div>
 
 <div className=" flex m-16">

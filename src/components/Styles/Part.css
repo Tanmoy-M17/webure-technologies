@@ -1,0 +1,72 @@
+.container6 {
+  padding: 65px 135px 15.5px 135px;
+}
+
+.heading {
+  width: 289px;
+  height: 53px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  letter-spacing: 0.02em;
+  color: #282c4b;
+  text-align: left;
+}
+.servicep {
+  text-align: left;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #f17216;
+}
+.servicepara {
+  text-align: left;
+  width: 335px;
+  height: 96px;
+  left: 135px;
+  top: 1097px;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #747582;
+}
+.vector {
+  float: right;
+}
+
+
+.card > div {
+  width: 251px;
+  height: 287px;
+  padding: 20px;
+}
+.para1 {
+  text-align: left;
+  width: 72px;
+  height: 25px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25px;
+  color: #14183e;
+  margin: 24.7px 0px 19px 0px;
+}
+.para2 {
+  text-align: left;
+  width: 177px;
+  height: 81px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 27px;
+  color: #747582;
+}
