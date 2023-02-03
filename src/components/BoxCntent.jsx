@@ -53,6 +53,22 @@ export const BoxCntent = () => {
     },
   ];
   return (
+<div >
+<div className="">
+<img className="w-fit ml-px mt-16" src="XMLID_15_.svg" alt="" />
+<h1 className="font-bold text-5xl">What De do</h1>
+</div>
+
+<div className=" flex m-16">
+  <h1 className="text-2xl font-bold">Our Services</h1>
+  <h1 className="font-bold text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Expedita, nostrum. Reiciendis, libero quos officiis placeat veniam corrupti magnam
+     quia voluptatem molestias, velit ad non eveniet architecto voluptatibus. Vero, unde nisi?
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum distinctio consequuntur 
+     officia iusto asperiores dolores natus obcaecati in deserunt autem, 
+     illo mollitia reprehenderit iste, odio nobis nihil recusandae eum quas.</h1>
+</div>
+
     <div className="grid grid-cols-4 gap-4 p-10">
       {img.map((e, i) => {
         return (
@@ -62,7 +78,7 @@ export const BoxCntent = () => {
                 src={e.logo}
                 alt=""
                 className={
-                  i == 0
+                  i === 0
                     ? " invert  m-auto  hover:hue-rotate-[180deg] hover:saturate-100 "
                     : "  m-auto  hover:hue-rotate-[180deg] hover:saturate-100 "
                 }
@@ -77,5 +93,6 @@ export const BoxCntent = () => {
         );
       })}
     </div>
+    </div> 
   );
 };
